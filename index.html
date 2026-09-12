@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title data-i18n="meta.title">Endémica Crea</title>
+<meta name="description" content="" data-i18n-attr="content:meta.description">
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- ============================================================
+     META PIXEL — PENDIENTE: reemplazar PIXEL_ID_AQUI por el ID real.
+     Solo trackea PageView (sin eventos de conversión de pago).
+     ============================================================ -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', 'PIXEL_ID_AQUI');
+fbq('track', 'PageView');
+</script>
+</head>
+<body>
+
+<!-- ======================= HEADER ======================= -->
+<header class="site-header">
+  <a href="#top" class="brand" data-i18n="nav.brand">Endémica Crea</a>
+  <nav class="main-nav">
+    <a href="#contacto" class="nav-cta" data-i18n="nav.contactCta">Contacto</a>
+    <div class="lang-switch" role="group" aria-label="Idioma">
+      <button type="button" data-lang="es" class="lang-btn">ES</button>
+      <button type="button" data-lang="en" class="lang-btn">EN</button>
+      <button type="button" data-lang="fr" class="lang-btn">FR</button>
+    </div>
+  </nav>
+</header>
+
+<!-- ======================= HERO ======================= -->
+<section id="top" class="hero">
+  <!-- TODO: reemplazar por foto/video real (Google Drive) -->
+  <div class="hero-media placeholder-media" aria-hidden="true"></div>
+  <div class="hero-overlay">
+    <h1 data-i18n="hero.title">Mimbre chileno: saber-hacer, raíz y sustentabilidad</h1>
+    <p class="hero-subtitle" data-i18n="hero.subtitle"></p>
+    <a href="#contacto" class="btn btn-primary" data-i18n="hero.cta">Conversemos</a>
+  </div>
+</section>
+
+<!-- ======================= ABOUT ======================= -->
+<section class="about split">
+  <div class="about-col about-text">
+    <p class="eyebrow" data-i18n="about.eyebrow">Sobre el taller</p>
+    <p class="giant-word" data-i18n="about.word">Mimbre en arte</p>
+    <h2 data-i18n="about.title">Ángel Guajardo — Endémica Crea</h2>
+    <p data-i18n="about.text"></p>
+  </div>
+  <div class="about-col about-image">
+    <!-- TODO: reemplazar por foto real (Google Drive) -->
+    <div class="placeholder-media" aria-hidden="true"></div>
+  </div>
+</section>
+
+<!-- ======================= MANIFESTO ======================= -->
+<section class="manifesto">
+  <div class="manifesto-col">
+    <blockquote data-i18n="manifesto.quote"></blockquote>
+  </div>
+  <div class="manifesto-col">
+    <p data-i18n="manifesto.paragraph"></p>
+  </div>
+</section>
+
+<!-- ======================= LA HISTORIA ======================= -->
+<section class="historia split reverse">
+  <div class="historia-col historia-image">
+    <!-- TODO: reemplazar por foto real de Ángel o Guillermo trabajando (Google Drive) -->
+    <div class="placeholder-media" aria-hidden="true"></div>
+  </div>
+  <div class="historia-col historia-text">
+    <p class="eyebrow" data-i18n="historia.eyebrow">La historia</p>
+    <h2 data-i18n="historia.title"></h2>
+    <p data-i18n="historia.text"></p>
+  </div>
+</section>
+
+<!-- ======================= EL OFICIO ======================= -->
+<section class="oficio">
+  <h2 data-i18n="oficio.title">El oficio</h2>
+  <div class="oficio-grid" id="oficio-grid"></div>
+</section>
+
+<!-- ======================= TRAYECTORIA ======================= -->
+<section class="trayectoria">
+  <h2 data-i18n="trayectoria.title">Quince años no se improvisan</h2>
+  <ol class="timeline" id="timeline"></ol>
+  <div class="collaborators">
+    <h3 data-i18n="trayectoria.collaboratorsTitle"></h3>
+    <p data-i18n="trayectoria.collaboratorsText"></p>
+  </div>
+</section>
+
+<!-- ======================= INSTAGRAM EN VIVO ======================= -->
+<section class="instagram-section">
+  <h2 data-i18n="instagram.title">Síguenos en Instagram</h2>
+  <p class="instagram-handle" data-i18n="instagram.subtitle">@endemicacrea</p>
+  <!--
+    NOTA TÉCNICA: Meta ya no permite un feed de Instagram auto-actualizable
+    sin token oficial de la Graph API. Esta sección usa embeds oficiales de
+    posts individuales (blockquote instagram-media), que se actualizan a mano
+    pegando el código de embed de cada post nuevo.
+    PENDIENTE: reemplazar los 3 placeholders de abajo por los embeds reales
+    (Instagram > post > ... > Insertar / Embed).
+  -->
+  <div class="instagram-grid">
+    <div class="instagram-embed-placeholder" aria-hidden="true">IG post 1</div>
+    <div class="instagram-embed-placeholder" aria-hidden="true">IG post 2</div>
+    <div class="instagram-embed-placeholder" aria-hidden="true">IG post 3</div>
+  </div>
+</section>
+
+<!-- ======================= CONTACTO ======================= -->
+<section id="contacto" class="contacto">
+  <h2 data-i18n="contacto.title">Conversemos</h2>
+  <p data-i18n="contacto.text"></p>
+
+  <!--
+    FORMULARIO — PENDIENTE: reemplazar FORMSPREE_ID_AQUI por el endpoint real
+    de Formspree (https://formspree.io) apuntando a hola@endemicacrea.cl
+  -->
+  <form id="contact-form" class="contact-form" action="https://formspree.io/f/FORMSPREE_ID_AQUI" method="POST">
+    <label for="name" data-i18n="contacto.formName">Nombre</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="email" data-i18n="contacto.formEmail">Correo</label>
+    <input type="email" id="email" name="email" required>
+
+    <label for="message" data-i18n="contacto.formMessage">Mensaje</label>
+    <textarea id="message" name="message" rows="5" required></textarea>
+
+    <button type="submit" class="btn btn-primary" data-i18n="contacto.formSubmit">Enviar mensaje</button>
+    <p id="form-feedback" class="form-feedback" role="status" hidden></p>
+  </form>
+
+  <div class="availability">
+    <h3 data-i18n="contacto.availabilityTitle"></h3>
+    <p data-i18n="contacto.availabilityText"></p>
+    <!-- TODO: reemplazar por link de WhatsApp real o mismo formulario -->
+    <a href="#contacto" class="btn btn-secondary" data-i18n="contacto.availabilityCta">Consultar disponibilidad</a>
+  </div>
+</section>
+
+<!-- ======================= COMPARTIR ======================= -->
+<section class="compartir">
+  <h3 data-i18n="compartir.title">Comparte esta historia</h3>
+  <div class="share-buttons">
+    <a id="share-whatsapp" class="share-btn" target="_blank" rel="noopener" data-i18n="compartir.whatsapp">WhatsApp</a>
+    <!-- TODO: reemplazar por el link real de Instagram -->
+    <a id="share-instagram" class="share-btn" href="https://instagram.com/endemicacrea" target="_blank" rel="noopener" data-i18n="compartir.instagram">Instagram</a>
+    <button type="button" id="share-copy" class="share-btn" data-i18n="compartir.copyLink">Copiar link</button>
+  </div>
+</section>
+
+<!-- ======================= FOOTER ======================= -->
+<footer class="site-footer">
+  <p><a href="mailto:hola@endemicacrea.cl" data-i18n="footer.email">hola@endemicacrea.cl</a></p>
+  <p><a href="https://instagram.com/endemicacrea" target="_blank" rel="noopener" data-i18n="footer.instagram">@endemicacrea</a></p>
+  <p class="rights" data-i18n="footer.rights"></p>
+  <!-- ROADMAP (no implementar ahora): catálogo de piezas en venta + e-commerce (Shopify vs. a medida) -->
+</footer>
+
+<script src="assets/js/i18n.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+</html>

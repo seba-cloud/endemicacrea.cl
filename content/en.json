@@ -1,0 +1,114 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "Endémica Crea — Chilean wicker, craft and sustainability",
+    "description": "Endémica Crea is Ángel Guajardo's workshop: Chilean wicker craftsmanship, family tradition and sustainability. A brand showcase with a gateway to commercial contact."
+  },
+  "nav": {
+    "brand": "Endémica Crea",
+    "contactCta": "Contact",
+    "langLabel": "Language"
+  },
+  "hero": {
+    "title": "Chilean wicker: know-how, roots and sustainability",
+    "subtitle": "Ángel Guajardo is a sociologist, practitioner and keeper of the Chilean wicker craft. Under the name Endémica Crea, she brings together fifteen years of work with this material: family heritage, territory, and a way of creating that never requires felling a single tree.",
+    "cta": "Get in touch"
+  },
+  "about": {
+    "eyebrow": "About the workshop",
+    "word": "Wicker\nas art",
+    "title": "Ángel Guajardo — Endémica Crea",
+    "text": "Ángel Violeta Guajardo Romero is a sociologist, practitioner and keeper of the Chilean wicker craft. Endémica Crea is the name that brings together all her lines of work: experimenting with the material to find more contemporary uses, and projecting a traditional craft into the future. Today she combines her training in sociology with fifteen years of hands-on work with Chilean wicker, exploring its possibilities alongside other materials — wood, metal, textile, ceramic — without losing sight of its origin: her father Guillermo Guajardo's craft."
+  },
+  "manifesto": {
+    "quote": "What surprised me most when I started weaving was how easily my hands seemed to know what to do — as if I already had a foundation that someone without this craft in their family wouldn't have.",
+    "paragraph": "The wicker craft doesn't live only in the finished object: it is a memory passed from hand to hand, a technique learned by watching and repeating, and a form of resistance against the logic of disposability. Sustaining it over time — finding new forms, new materials, new hands to carry it forward — means protecting a knowledge that, if no one takes it up, is lost."
+  },
+  "historia": {
+    "eyebrow": "The story",
+    "title": "A craft across two generations",
+    "text": "Guillermo Guajardo, Ángel's father, has been weaving wicker for nearly 70 years — almost 80 years of life devoted largely to a self-taught, authorial body of work that carried the craft into sculpture. It was precisely that distinct outlook — of someone who wasn't just making baskets or furniture on commission — that sparked Ángel's interest in rescuing the family's know-how and projecting it forward. That interest deepened through her time in academia: it was there that her father's craft stopped being just an object and became a form of memory — a technique, an oral transmission from generation to generation, a living heritage that Ángel now works to sustain and expand."
+  },
+  "oficio": {
+    "title": "The craft — From the water channel to the finished piece",
+    "cards": [
+      {
+        "title": "Territory",
+        "text": "Wicker grows in central Chile, from the Valparaíso region to Ñuble, with Chimbarongo (O'Higgins region) as the historic center of the craft. The climate and waterways of the area are ideal for its cultivation."
+      },
+      {
+        "title": "Cultivation",
+        "text": "It's a generous material: harvested in winter by cutting only the branches, without felling the tree, which grows back the following year. Planted along canals, wetlands or reservoirs, its roots even help hold water in place."
+      },
+      {
+        "title": "Preparation",
+        "text": "After harvest, the wicker is peeled — boiled, for a brown tone, or left natural, waiting for it to sprout — then run through splitters and planers until the rod is ready for weaving. Chilean wicker is harder than European wicker: it demands more work, but yields more durable pieces."
+      },
+      {
+        "title": "Craft",
+        "text": "Weaving is passed down from generation to generation, almost always orally, by watching and repeating. Knowing the whole process — from cultivation to the finished piece — is what allows the craft to be sustained without depending on others."
+      }
+    ]
+  },
+  "trayectoria": {
+    "title": "Fifteen years can't be improvised",
+    "items": [
+      {
+        "year": "2011 — present",
+        "title": "Endémica Crea workshop",
+        "text": "The brand and workshop where Ángel brings together her work with Chilean wicker: material experimentation, craft, and contemporary projection."
+      },
+      {
+        "year": "2020",
+        "title": "FONDART creation grant — La Casa de los Peces",
+        "text": "Ángel's first project, focused on highlighting the authorial, sculptural work of her father, Guillermo Guajardo."
+      },
+      {
+        "year": "2023",
+        "title": "FONDART creation grant — Trama y Legado",
+        "text": "Creative research into how techniques from other crafts, such as textiles, can be carried over into wicker."
+      },
+      {
+        "year": "2024",
+        "title": "FONDART creation grant — Inteligencia Artesanal",
+        "text": "A collective furniture piece combining wicker with wood, metal, textile and ceramic, developed together with other practitioners of the craft."
+      },
+      {
+        "year": "2026",
+        "title": "FONDART research grant — in progress",
+        "text": "Qualitative research into contemporary wicker craft in central Chile, including interviews with artisans across different territories. The project will result in a book on the craft's know-how."
+      }
+    ],
+    "collaboratorsTitle": "Collaborators and masters",
+    "collaboratorsText": "Segundo Rodríguez, a master craftsman from Chimbarongo recognized for the fineness of his work and the importance he places on material preparation. Pablo García, a leading figure in contemporary wicker, whose work explores installations and more scenic pieces rather than everyday objects."
+  },
+  "instagram": {
+    "title": "Follow us on Instagram",
+    "subtitle": "@endemicacrea"
+  },
+  "contacto": {
+    "title": "Get in touch",
+    "text": "Want to learn more about Endémica Crea's work, arrange a collaboration, or ask about a piece? Write to us.",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send message",
+    "formSuccess": "Thank you! Your message has been sent, we'll get back to you soon.",
+    "formError": "There was a problem sending your message. Please try again or write to us directly at hola@endemicacrea.cl.",
+    "availabilityTitle": "Looking for a specific piece?",
+    "availabilityText": "We're preparing our catalog of pieces for sale. In the meantime, tell us what you're looking for and we'll help you directly.",
+    "availabilityCta": "Check availability"
+  },
+  "compartir": {
+    "title": "Share this story",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "copyLink": "Copy link",
+    "copied": "Link copied!"
+  },
+  "footer": {
+    "email": "hola@endemicacrea.cl",
+    "instagram": "@endemicacrea",
+    "rights": "© Endémica Crea. All rights reserved."
+  }
+}

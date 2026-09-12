@@ -1,0 +1,114 @@
+{
+  "lang": "es",
+  "meta": {
+    "title": "Endémica Crea — Mimbre chileno, saber-hacer y sustentabilidad",
+    "description": "Endémica Crea es el taller de Ángel Guajardo: artesanía en mimbre chileno, oficio familiar y sustentabilidad. Vitrina de marca con puerta de entrada a contacto comercial."
+  },
+  "nav": {
+    "brand": "Endémica Crea",
+    "contactCta": "Contacto",
+    "langLabel": "Idioma"
+  },
+  "hero": {
+    "title": "Mimbre chileno: saber-hacer, raíz y sustentabilidad",
+    "subtitle": "Ángel Guajardo es socióloga, cultora y guardiana del oficio de la artesanía en mimbre. Bajo el nombre Endémica Crea reúne quince años de trabajo con este material: herencia familiar, territorio y una forma de crear que no necesita talar un solo árbol.",
+    "cta": "Conversemos"
+  },
+  "about": {
+    "eyebrow": "Sobre el taller",
+    "word": "Mimbre\nen arte",
+    "title": "Ángel Guajardo — Endémica Crea",
+    "text": "Ángel Violeta Guajardo Romero es socióloga, cultora y guardiana del oficio de la artesanía en mimbre. Endémica Crea es el nombre que reúne todas sus líneas de trabajo: la experimentación con el material para darle usos más contemporáneos, y la proyección de un oficio tradicional hacia el futuro. Hoy combina su formación en sociología con quince años de trabajo manual junto al mimbre chileno, explorando sus posibilidades junto a otros materiales — madera, metal, textil, cerámica — sin perder de vista su origen: el oficio de su padre, Guillermo Guajardo."
+  },
+  "manifesto": {
+    "quote": "Lo que más me sorprendió cuando empecé a tejer fue la facilidad con que mis manos parecían saber qué hacer — como si ya tuviera una base que otra persona, sin un oficio así en la familia, no tendría.",
+    "paragraph": "El oficio del mimbre no vive solo en el objeto terminado: es una memoria que pasa de mano en mano, una técnica que se aprende mirando y repitiendo, y una forma de resistencia frente a la lógica de lo desechable. Sostenerlo en el tiempo — encontrarle nuevas formas, nuevos materiales, nuevas manos que lo continúen — es proteger un saber que, si nadie lo toma, se pierde."
+  },
+  "historia": {
+    "eyebrow": "La historia",
+    "title": "Un oficio de dos generaciones",
+    "text": "Guillermo Guajardo, el padre de Ángel, lleva cerca de 70 años tejiendo mimbre — casi 80 de vida dedicados en gran parte a un desarrollo autodidacta y autoral que llevó el oficio hacia la escultura. Fue justamente esa mirada distinta, la de alguien que no solo hacía canastos o muebles por encargo, la que despertó en Ángel el interés por rescatar el saber-hacer familiar y proyectarlo hacia adelante. Ese interés se profundizó al pasar por la academia: fue ahí donde el oficio de su padre dejó de ser solo un objeto y se convirtió en una forma de memoria — una técnica, una transmisión oral de generación en generación, un patrimonio vivo que hoy Ángel busca sostener y expandir."
+  },
+  "oficio": {
+    "title": "El oficio — Del canal de agua a la pieza terminada",
+    "cards": [
+      {
+        "title": "Territorio",
+        "text": "El mimbre crece en la zona central de Chile, desde la región de Valparaíso hasta la de Ñuble, con Chimbarongo (región de O'Higgins) como epicentro histórico del oficio. El clima y los cursos de agua de la zona son ideales para su cultivo."
+      },
+      {
+        "title": "Cultivo",
+        "text": "Es un material noble: se cosecha en invierno cortando solo las ramas, sin talar el árbol, que vuelve a crecer al año siguiente. Plantado junto a canales, humedales o tranques, incluso ayuda a contener el agua gracias a la forma de su raíz."
+      },
+      {
+        "title": "Preparación",
+        "text": "Tras la cosecha, el mimbre se pela — cocido, para un tono café, o natural, esperando su brote — y pasa por partidores y cepilladoras hasta lograr la varilla lista para tejer. El mimbre chileno es más duro que el europeo: exige más trabajo, pero da piezas más durables."
+      },
+      {
+        "title": "Oficio",
+        "text": "El tejido se transmite de generación en generación, casi siempre de forma oral, mirando y repitiendo. Conocer todo el proceso — desde el cultivo hasta la pieza terminada — es lo que permite sostener el oficio sin depender de terceros."
+      }
+    ]
+  },
+  "trayectoria": {
+    "title": "Quince años no se improvisan",
+    "items": [
+      {
+        "year": "2011 — actualidad",
+        "title": "Taller Endémica Crea",
+        "text": "Marca y taller donde Ángel reúne su trabajo con el mimbre chileno: experimentación de material, oficio y proyección contemporánea."
+      },
+      {
+        "year": "2020",
+        "title": "FONDART creación — La Casa de los Peces",
+        "text": "Primer proyecto de Ángel, enfocado en relevar el trabajo autoral y escultórico de su padre, Guillermo Guajardo."
+      },
+      {
+        "year": "2023",
+        "title": "FONDART creación — Trama y Legado",
+        "text": "Investigación creativa sobre cómo técnicas de otros oficios, como el textil, pueden traspasarse al mimbre."
+      },
+      {
+        "year": "2024",
+        "title": "FONDART creación — Inteligencia Artesanal",
+        "text": "Obra colectiva de mobiliario que combina mimbre con madera, metal, textil y cerámica, desarrollada junto a otros cultores del oficio."
+      },
+      {
+        "year": "2026",
+        "title": "FONDART investigación — en curso",
+        "text": "Investigación cualitativa sobre el mimbre contemporáneo en la zona central de Chile, con entrevistas a artesanos de distintos territorios. El proyecto culminará en un libro sobre el saber-hacer del oficio."
+      }
+    ],
+    "collaboratorsTitle": "Colaboradores y maestros",
+    "collaboratorsText": "Segundo Rodríguez, maestro de Chimbarongo reconocido por la fineza de su trabajo y la importancia que le da a la preparación del material. Pablo García, referente del mimbre contemporáneo, cuyo trabajo explora instalaciones y piezas más escénicas que objetos de uso cotidiano."
+  },
+  "instagram": {
+    "title": "Síguenos en Instagram",
+    "subtitle": "@endemicacrea"
+  },
+  "contacto": {
+    "title": "Conversemos",
+    "text": "¿Quieres conocer más del trabajo de Endémica Crea, coordinar una colaboración o consultar por una pieza? Escríbenos.",
+    "formName": "Nombre",
+    "formEmail": "Correo",
+    "formMessage": "Mensaje",
+    "formSubmit": "Enviar mensaje",
+    "formSuccess": "¡Gracias! Tu mensaje fue enviado, te responderemos pronto.",
+    "formError": "Hubo un problema al enviar tu mensaje. Intenta nuevamente o escríbenos directo a hola@endemicacrea.cl.",
+    "availabilityTitle": "¿Buscas una pieza en particular?",
+    "availabilityText": "Estamos preparando nuestro catálogo de piezas en venta. Mientras tanto, cuéntanos qué buscas y te ayudamos directamente.",
+    "availabilityCta": "Consultar disponibilidad"
+  },
+  "compartir": {
+    "title": "Comparte esta historia",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "copyLink": "Copiar link",
+    "copied": "¡Link copiado!"
+  },
+  "footer": {
+    "email": "hola@endemicacrea.cl",
+    "instagram": "@endemicacrea",
+    "rights": "© Endémica Crea. Todos los derechos reservados."
+  }
+}
