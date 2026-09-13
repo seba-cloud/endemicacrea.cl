@@ -12,13 +12,15 @@
   "hero": {
     "title": "Chilean wicker: know-how, roots and sustainability",
     "subtitle": "Ángel Guajardo is a sociologist, practitioner and keeper of the Chilean wicker craft. Under the name Endémica Crea, she brings together fifteen years of work with this material: family heritage, territory, and a way of creating that never requires felling a single tree.",
-    "cta": "Get in touch"
+    "cta": "Get in touch",
+    "imageAlt": "Ángel Guajardo weaving wicker in her workshop"
   },
   "about": {
     "eyebrow": "About the workshop",
     "word": "Wicker\nas art",
     "title": "Ángel Guajardo — Endémica Crea",
-    "text": "Ángel Violeta Guajardo Romero is a sociologist, practitioner and keeper of the Chilean wicker craft. Endémica Crea is the name that brings together all her lines of work: experimenting with the material to find more contemporary uses, and projecting a traditional craft into the future. Today she combines her training in sociology with fifteen years of hands-on work with Chilean wicker, exploring its possibilities alongside other materials — wood, metal, textile, ceramic — without losing sight of its origin: her father Guillermo Guajardo's craft."
+    "text": "Ángel Violeta Guajardo Romero is a sociologist, practitioner and keeper of the Chilean wicker craft. Endémica Crea is the name that brings together all her lines of work: experimenting with the material to find more contemporary uses, and projecting a traditional craft into the future. Today she combines her training in sociology with fifteen years of hands-on work with Chilean wicker, exploring its possibilities alongside other materials — wood, metal, textile, ceramic — without losing sight of its origin: her father Guillermo Guajardo's craft.",
+    "imageAlt": "Portrait of Ángel Guajardo weaving wicker"
   },
   "manifesto": {
     "quote": "What surprised me most when I started weaving was how easily my hands seemed to know what to do — as if I already had a foundation that someone without this craft in their family wouldn't have.",
@@ -27,7 +29,8 @@
   "historia": {
     "eyebrow": "The story",
     "title": "A craft across two generations",
-    "text": "Guillermo Guajardo, Ángel's father, has been weaving wicker for nearly 70 years — almost 80 years of life devoted largely to a self-taught, authorial body of work that carried the craft into sculpture. It was precisely that distinct outlook — of someone who wasn't just making baskets or furniture on commission — that sparked Ángel's interest in rescuing the family's know-how and projecting it forward. That interest deepened through her time in academia: it was there that her father's craft stopped being just an object and became a form of memory — a technique, an oral transmission from generation to generation, a living heritage that Ángel now works to sustain and expand."
+    "text": "Guillermo Guajardo, Ángel's father, has been weaving wicker for nearly 70 years — almost 80 years of life devoted largely to a self-taught, authorial body of work that carried the craft into sculpture. It was precisely that distinct outlook — of someone who wasn't just making baskets or furniture on commission — that sparked Ángel's interest in rescuing the family's know-how and projecting it forward. That interest deepened through her time in academia: it was there that her father's craft stopped being just an object and became a form of memory — a technique, an oral transmission from generation to generation, a living heritage that Ángel now works to sustain and expand.",
+    "imageAlt": "Guillermo Guajardo weaving wicker by a window"
   },
   "oficio": {
     "title": "The craft — From the water channel to the finished piece",

@@ -41,11 +41,27 @@ usa la librería `@formspree/ajax`— para poder mostrar los mensajes de
 éxito/error en el idioma activo (`contacto.formSuccess` / `contacto.formError`
 en cada `content/<lang>.json`).
 
+## Fotos
+
+Las fotos de hero, "Mimbre en arte" (about) y "La historia" son reales,
+extraídas del PDF `PORTAFOLIO ANGEL_compressed.pdf` (carpeta
+`04_FONDART_y_Trayectoria` en Drive) y guardadas en `assets/img/`:
+
+- `hero-taller.jpg` — Ángel tejiendo en el taller (hero)
+- `angel-tejiendo.jpg` — retrato de Ángel tejiendo (about)
+- `guillermo-tejiendo.jpg` — Guillermo Guajardo tejiendo junto a una ventana (historia)
+
+La carpeta de Drive (`05_Fotografias/01_ORIGINAL`) tiene ~40 fotos originales
+sin editar ni seleccionar (siguiendo el flujo ORIGINAL → SELECCIONADO →
+EDITADO → PUBLICADO propuesto en el proyecto) que aún no se han curado — son
+buena fuente para ampliar la galería del oficio o la trayectoria más adelante.
+También hay ~8 videos (varios de +100MB) en `06_Videos` sin usar todavía.
+
 ## Pendientes explícitos (marcados también en el código con comentarios)
 
-- [ ] **Fotos y videos reales**: hoy son placeholders (bloques a rayas). Se
-      cargan desde la carpeta de Google Drive compartida y reemplazan los
-      `<div class="placeholder-media">` en `index.html`.
+- [ ] **Más fotos/video**: seleccionar y editar material adicional desde
+      Drive (`05_Fotografias/01_ORIGINAL`, `06_Videos`) para secciones como
+      "El oficio" o "Trayectoria", que hoy no tienen imagen.
 - [ ] **Meta Pixel ID real**: reemplazar `PIXEL_ID_AQUI` en el `<head>` de
       `index.html`. Solo trackea `PageView` (sin evento de conversión de pago).
 - [ ] **Instagram embeds**: reemplazar los 3 placeholders de la sección
