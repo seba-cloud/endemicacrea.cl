@@ -1,0 +1,117 @@
+{
+  "lang": "fr",
+  "meta": {
+    "title": "Endémica Crea — Osier chilien, savoir-faire et durabilité",
+    "description": "Endémica Crea est l'atelier d'Ángel Guajardo : artisanat de l'osier chilien, tradition familiale et durabilité. Une vitrine de marque avec une porte d'entrée vers le contact commercial."
+  },
+  "nav": {
+    "brand": "Endémica Crea",
+    "contactCta": "Contact",
+    "langLabel": "Langue"
+  },
+  "hero": {
+    "title": "Osier chilien : savoir-faire, racines et durabilité",
+    "subtitle": "Ángel Guajardo est sociologue, praticienne et gardienne de l'artisanat de l'osier. Sous le nom d'Endémica Crea, elle rassemble quinze années de travail avec ce matériau : héritage familial, territoire, et une façon de créer qui n'exige jamais d'abattre un seul arbre.",
+    "cta": "Nous contacter",
+    "imageAlt": "Ángel Guajardo tissant l'osier dans son atelier"
+  },
+  "about": {
+    "eyebrow": "À propos de l'atelier",
+    "word": "L'osier\nen art",
+    "title": "Ángel Guajardo — Endémica Crea",
+    "text": "Ángel Violeta Guajardo Romero est sociologue, praticienne et gardienne de l'artisanat de l'osier. Endémica Crea est le nom qui rassemble toutes ses lignes de travail : l'expérimentation du matériau pour lui donner des usages plus contemporains, et la projection d'un artisanat traditionnel vers l'avenir. Aujourd'hui, elle combine sa formation en sociologie avec quinze années de travail manuel autour de l'osier chilien, explorant ses possibilités aux côtés d'autres matériaux — bois, métal, textile, céramique — sans perdre de vue son origine : le métier de son père, Guillermo Guajardo.",
+    "imageAlt": "Portrait d'Ángel Guajardo tissant l'osier"
+  },
+  "manifesto": {
+    "quote": "Ce qui m'a le plus surprise en commençant à tisser, c'est la facilité avec laquelle mes mains semblaient savoir quoi faire — comme si j'avais déjà une base que quelqu'un sans ce métier dans sa famille n'aurait pas.",
+    "paragraph": "L'artisanat de l'osier ne vit pas seulement dans l'objet fini : c'est une mémoire qui passe de main en main, une technique qui s'apprend en observant et en répétant, et une forme de résistance face à la logique du jetable. Le faire perdurer — lui trouver de nouvelles formes, de nouveaux matériaux, de nouvelles mains pour le poursuivre — c'est protéger un savoir qui, si personne ne le reprend, se perd."
+  },
+  "historia": {
+    "eyebrow": "L'histoire",
+    "title": "Un métier à travers deux générations",
+    "text": "Guillermo Guajardo, le père d'Ángel, tisse l'osier depuis près de 70 ans — presque 80 ans de vie en grande partie consacrés à un travail autodidacte et personnel qui a porté le métier vers la sculpture. C'est précisément ce regard différent — celui de quelqu'un qui ne se contentait pas de fabriquer des paniers ou des meubles sur commande — qui a éveillé chez Ángel l'intérêt de sauvegarder ce savoir-faire familial et de le projeter vers l'avenir. Cet intérêt s'est approfondi durant son passage à l'université : c'est là que le métier de son père a cessé d'être un simple objet pour devenir une forme de mémoire — une technique, une transmission orale de génération en génération, un patrimoine vivant qu'Ángel s'efforce aujourd'hui de préserver et de faire grandir.",
+    "imageAlt": "Guillermo Guajardo tissant l'osier près d'une fenêtre"
+  },
+  "oficio": {
+    "title": "Le métier — Du canal d'irrigation à la pièce finie",
+    "cards": [
+      {
+        "title": "Territoire",
+        "text": "L'osier pousse dans la zone centrale du Chili, de la région de Valparaíso à celle de Ñuble, avec Chimbarongo (région d'O'Higgins) comme centre historique du métier. Le climat et les cours d'eau de la région sont idéaux pour sa culture."
+      },
+      {
+        "title": "Culture",
+        "text": "C'est un matériau généreux : récolté en hiver en coupant seulement les branches, sans abattre l'arbre, qui repousse l'année suivante. Planté le long de canaux, de zones humides ou de bassins, il aide même, grâce à ses racines, à retenir l'eau."
+      },
+      {
+        "title": "Préparation",
+        "text": "Après la récolte, l'osier est pelé — bouilli, pour une teinte brune, ou naturel, en attendant qu'il bourgeonne — puis passé dans des fendoirs et des raboteuses jusqu'à obtenir la tige prête à être tissée. L'osier chilien est plus dur que l'osier européen : il exige plus de travail, mais donne des pièces plus durables."
+      },
+      {
+        "title": "Métier",
+        "text": "Le tissage se transmet de génération en génération, presque toujours oralement, en observant et en répétant. Connaître l'ensemble du processus — de la culture jusqu'à la pièce finie — permet de faire perdurer le métier sans dépendre de tiers."
+      }
+    ]
+  },
+  "trayectoria": {
+    "title": "Quinze années ne s'improvisent pas",
+    "items": [
+      {
+        "year": "2011 — aujourd'hui",
+        "title": "Atelier Endémica Crea",
+        "text": "La marque et l'atelier où Ángel rassemble son travail autour de l'osier chilien : expérimentation du matériau, métier et projection contemporaine."
+      },
+      {
+        "year": "2020",
+        "title": "Fonds FONDART création — La Casa de los Peces",
+        "text": "Premier projet d'Ángel, centré sur la mise en valeur du travail personnel et sculptural de son père, Guillermo Guajardo."
+      },
+      {
+        "year": "2023",
+        "title": "Fonds FONDART création — Trama y Legado",
+        "text": "Recherche créative sur la façon dont des techniques issues d'autres métiers, comme le textile, peuvent être transposées à l'osier."
+      },
+      {
+        "year": "2024",
+        "title": "Fonds FONDART création — Inteligencia Artesanal",
+        "text": "Une œuvre collective de mobilier combinant l'osier avec le bois, le métal, le textile et la céramique, développée avec d'autres praticiens du métier."
+      },
+      {
+        "year": "2026",
+        "title": "Fonds FONDART recherche — en cours",
+        "text": "Recherche qualitative sur l'osier contemporain dans la zone centrale du Chili, incluant des entretiens avec des artisans de différents territoires. Le projet aboutira à un livre sur le savoir-faire du métier."
+      }
+    ],
+    "collaboratorsTitle": "Collaborateurs et maîtres artisans",
+    "collaboratorsText": "Segundo Rodríguez, maître artisan de Chimbarongo reconnu pour la finesse de son travail et l'importance qu'il accorde à la préparation du matériau. Pablo García, référence de l'osier contemporain, dont le travail explore des installations et des pièces plus scéniques que des objets du quotidien."
+  },
+  "instagram": {
+    "title": "Suivez-nous sur Instagram",
+    "subtitle": "@endemicacrea"
+  },
+  "contacto": {
+    "title": "Nous contacter",
+    "text": "Vous souhaitez en savoir plus sur le travail d'Endémica Crea, organiser une collaboration ou vous renseigner sur une pièce ? Écrivez-nous.",
+    "formName": "Nom",
+    "formEmail": "E-mail",
+    "formMessage": "Message",
+    "formSubmit": "Envoyer le message",
+    "formSuccess": "Merci ! Votre message a été envoyé, nous vous répondrons bientôt.",
+    "formError": "Un problème est survenu lors de l'envoi de votre message. Veuillez réessayer ou nous écrire directement à hola@endemicacrea.cl.",
+    "availabilityTitle": "Vous cherchez une pièce en particulier ?",
+    "availabilityText": "Nous préparons notre catalogue de pièces à vendre. En attendant, dites-nous ce que vous recherchez et nous vous aiderons directement.",
+    "availabilityCta": "Vérifier la disponibilité"
+  },
+  "compartir": {
+    "title": "Partagez cette histoire",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "copyLink": "Copier le lien",
+    "copied": "Lien copié !"
+  },
+  "footer": {
+    "email": "hola@endemicacrea.cl",
+    "instagram": "@endemicacrea",
+    "rights": "© Endémica Crea. Tous droits réservés."
+  }
+}
