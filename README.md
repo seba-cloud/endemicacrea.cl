@@ -32,11 +32,17 @@ python3 -m http.server 8000
 
 y abrir `http://localhost:8000`.
 
+## Formulario de contacto
+
+Usa el endpoint real de [Formspree](https://formspree.io/f/xqpkvkbl) apuntando
+a `hola@endemicacrea.cl`. El envío es vía AJAX (`fetch` con
+`Accept: application/json`) implementado a mano en `assets/js/main.js` —no se
+usa la librería `@formspree/ajax`— para poder mostrar los mensajes de
+éxito/error en el idioma activo (`contacto.formSuccess` / `contacto.formError`
+en cada `content/<lang>.json`).
+
 ## Pendientes explícitos (marcados también en el código con comentarios)
 
-- [ ] **Formulario de contacto**: reemplazar `FORMSPREE_ID_AQUI` en `index.html`
-      por el endpoint real de [Formspree](https://formspree.io) apuntando a
-      `hola@endemicacrea.cl`.
 - [ ] **Fotos y videos reales**: hoy son placeholders (bloques a rayas). Se
       cargan desde la carpeta de Google Drive compartida y reemplazan los
       `<div class="placeholder-media">` en `index.html`.
